@@ -13,9 +13,7 @@ A collection of Unity C# camera follow scripts for 2D and 3D.
 ## 📋 Script List
 | Script Name | Usage Scene |
 | ---- | ---- |
-| SmoothFollow | Basic smooth follow |
-| LockCamera | Fixed view follow |
-| BoundCamera | Camera with movement boundary limit |
+| Simple Follow | Basic follow |
 
 ## 🚀 How to use
 1. Download scripts and put them into your Unity project
