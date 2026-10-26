@@ -13,9 +13,7 @@ A collection of Unity C# camera follow scripts for 2D and 3D.
 ## 📋 脚本列表
 | 脚本名称 | 适用场景 |
 | ---- | ---- |
-| SmoothFollow | 平滑跟随（基础版） |
-| LockCamera | 锁定视角跟随 |
-| BoundCamera | 带边界限制相机 |
+| Simple Follow | 普通跟随 |
 
 ## 🚀 使用方法
 1. 下载脚本，放入Unity项目
