@@ -13,6 +13,7 @@ A collection of Unity C# camera follow scripts for 2D and 3D.
 | 脚本名称 | 适用场景 | 支持版本 |
 | ---- | ---- | ---- |
 | Simple Follow | 简单跟随 | Unity2D |
+| Deadzone Follow| 死区跟随 | Unity2D |
 
 ## 🚀 使用方法
 1. 下载脚本，放入Unity项目
