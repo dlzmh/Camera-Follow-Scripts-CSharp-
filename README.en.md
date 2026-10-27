@@ -13,6 +13,7 @@ English · [简体中文](README.md)
 | Script Name | Usage Scenario | Supported Version |
 | ---- | ---- | ---- |
 | Simple Follow | Basic follow | Unity2D |
+| Deadzone Follow | stabilize camera | Unity2D |
 
 ## 🚀 How to use
 1. Download the script and put it into your Unity project
