@@ -1,21 +1,15 @@
 # Camera Follow Scripts CSharp
 A collection of Unity C# camera follow scripts for 2D and 3D.
 
-
-
-
-
 简体中文 · [English](README.en.md)
 
 > [!IMPORTANT]
 > 这个仓库持续更新 Unity 2D / 3D 的相机跟随 C# 脚本，希望对你有帮助。
 
-## 📋 脚本列表
-| 脚本名称 | 适用场景 |
-| ---- | ---- |
-|unity2D|
-| Simple Follow | 简单跟随 |
-|unity3D|
+## 📜 脚本列表
+| 脚本名称 | 适用场景 | 支持版本 |
+| ---- | ---- | ---- |
+| Simple Follow | 简单跟随 | Unity2D |
 
 ## 🚀 使用方法
 1. 下载脚本，放入Unity项目
