@@ -10,10 +10,10 @@ English · [简体中文](README.md)
 > This repository keeps updating Unity 2D / 3D camera follow C# scripts, hope it helps you.
 
 ## 📜 Script List
-| Script Name | Usage Scenario | Supported Version |
+| Script Name | Way | Supported Version |
 | ---- | ---- | ---- |
-| Simple Follow | Basic follow | Unity2D |
-| Deadzone Follow | stabilize camera | Unity2D |
+| Simple Follow | set camera position directly to character position plus offset, no smoothing | Unity2D |
+| Deadzone Follow | camera stays still while target is inside rectangle, pans only when target goes out | Unity2D |
 
 ## 🚀 How to use
 1. Download the script and put it into your Unity project
