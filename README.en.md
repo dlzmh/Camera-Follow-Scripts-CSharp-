@@ -4,7 +4,8 @@ A collection of Unity C# camera follow scripts for 2D and 3D.
 
 
 
-简体中文 · [English](README.en.md)
+[简体中文](README.md) · English
+
 
 > [!IMPORTANT]
 > This repository keeps updating Unity 2D / 3D camera follow C# scripts. Hope they help you.
