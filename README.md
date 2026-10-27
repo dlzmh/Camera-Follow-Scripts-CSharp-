@@ -10,7 +10,7 @@ A collection of Unity C# camera follow scripts for 2D and 3D.
 > 这个仓库持续更新 Unity 2D / 3D 的相机跟随 C# 脚本，希望对你有帮助。
 
 ## 📜 脚本列表
-**| 脚本名称 | 方式 | 支持版本 | 优点 | 缺点 |**
+| 脚本名称 | 方式 | 支持版本 | 优点 | 缺点 |
 | ---- | ---- | ---- | ---- | ---- |
 | Simple Follow | 硬跟随把相机位置直接设为角色位置加偏移，不做任何平滑 | Unity2D |
 | Deadzone Follow| 死区跟随目标在矩形框内不动，超出才推镜头 | Unity2D |
