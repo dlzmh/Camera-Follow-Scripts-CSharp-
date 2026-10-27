@@ -1,6 +1,9 @@
 # Camera Follow Scripts CSharp
 A collection of Unity C# camera follow scripts for 2D and 3D.
 
+
+
+
 简体中文 · [English](README.en.md)
 
 > [!IMPORTANT]
