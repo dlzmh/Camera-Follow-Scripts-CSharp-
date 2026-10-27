@@ -1,5 +1,5 @@
 using UnityEngine;
-//这个脚本是关于相机死区跟随，只有角色超出屏幕中的死区范围，相机才会跟随（可能会出现相机越界，看见虚空）
+
 public class DeadzoneFollow : MonoBehaviour
 {
     public float DeadzoneWide=2f;   //死区宽
