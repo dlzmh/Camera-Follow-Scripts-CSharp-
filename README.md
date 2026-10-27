@@ -12,8 +12,8 @@ A collection of Unity C# camera follow scripts for 2D and 3D.
 ## 📜 脚本列表
 | 脚本名称 | 方式 | 支持版本 | 优点 | 缺点 |
 | ---- | ---- | ---- | ---- | ---- |
-| Simple Follow | 硬跟随把相机位置直接设为角色位置加偏移，不做任何平滑 | Unity2D |
-| Deadzone Follow| 死区跟随目标在矩形框内不动，超出才推镜头 | Unity2D |
+| Simple Follow | 硬跟随把相机位置直接设为角色位置加偏移，不做任何平滑 | Unity2D | 零延迟，像素精确 | 画面容易抖动 |
+| Deadzone Follow| 死区跟随目标在矩形框内不动，超出才推镜头 | Unity2D | 小幅移动不抖 | 有延迟，需调整参数 |
 
 ## 🚀 使用方法
 1. 下载脚本，放入Unity项目
